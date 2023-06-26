@@ -24,7 +24,7 @@ if ($name == "") {
     $msg['field'] = "contact-message";
     $msg['code'] = FALSE;
 } else {
-    $to = 'hasan@axilweb.com';
+    $to = 'james@jpask.com';
     $subject = 'Abstrak Contact Query';
     $_message = '<html><head></head><body>';
     $_message .= '<p>Name: ' . $name . '</p>';
